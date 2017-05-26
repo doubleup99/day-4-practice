@@ -1,0 +1,56 @@
+body {
+  margin:20px;
+}
+
+.row-space {
+  margin-top:20px;
+
+}
+
+
+
+
+.logo {
+  height: 50px;
+  border: 1px inset black;
+  background-color: black;
+
+}
+
+.navi {
+  margin-top: 15px;
+  padding-right:5px;
+  height: 20px;
+  border: 1px inset black;
+  background-color: black;
+}
+
+.main {
+  height:300px;
+  background-color:black;
+  border: 1px inset black;
+  margin-top:20px;
+}
+
+.button {
+  height:20px;
+  background-color:black;
+  border:1px inset black;
+  margin-top:30px;
+}
+
+.aside{
+  height:100px;
+  background-color:black;
+  border:1px inset black;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+.aside-right {
+  height:100px;
+  background-color: black;
+  border:1px inset black;
+  margin-top: 20px;
+  margin-bottom:20px;
+}
